@@ -34,6 +34,9 @@ def mainf():
     elif get_i == 3:
         print("em desenvolvimento...")
 
+    elif get_i == 4:
+        print("em desenvolvimento...")
+
     elif get_i is not list_op or get_i != type(get_i):
         print("Algo deu errado, tente novamente...")
         print(type(get_i))
